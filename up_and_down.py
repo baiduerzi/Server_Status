@@ -8,7 +8,7 @@ from datetime import datetime
 timeout = 10
 time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-key = 'SCU20211T5a48f0049a7d4bff618c5b4c0eba8a515a5d822ca1dfe'
+key = ''
 
 title = "VPS在线检测"
 #content = "The VPS is running 7"
